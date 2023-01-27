@@ -24,12 +24,6 @@ Instale as dependências do projeto
 npm install
 ```
 
-ou
-
-```sh
-yarn add
-```
-
 Rode o servidor com
 
 ```sh
