@@ -30,6 +30,12 @@ ou
 yarn add
 ```
 
+Rode o servidor com
+
+```sh
+npm run dev
+```
+
 ### .env
 
 Para que o sistema funcione corretamente, é necessário criar um arquivo .env com a seguinte estrutura:
