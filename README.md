@@ -30,6 +30,18 @@ Rode o servidor com
 npm run dev
 ```
 
+### Prisma
+
+Rode esses dois comandos para o prisma gerar o banco de dados corretamente
+
+```sh
+npx prisma generate
+```
+
+```sh
+npx prisma migrate dev
+```
+
 ### .env
 
 Para que o sistema funcione corretamente, é necessário criar um arquivo .env com a seguinte estrutura:
