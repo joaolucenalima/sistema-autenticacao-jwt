@@ -55,10 +55,4 @@ SECRET="SEU-SECRET-AQUI"
 
 - NextJs
 - TypeScript
-- tailwind
-- axios
-- jsonwebtokens
-- bcrypt
-- zod
-- react-hook-form
-- nookies
+- TailwindCSS
